@@ -1,7 +1,7 @@
 # Stater token specifications
 
-Contract address: 0x2D30932A5220Fc06423C52Cb35364316B3184fb5
+Contract address: 0x34a52906582E7A3F597CFAD98fd5302Fa5938044
 
-Total supply: 10,000,000,000
+Total supply: 100,000,000
 
-Symbol: STTR
+Symbol: STR
